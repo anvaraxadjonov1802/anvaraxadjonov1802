@@ -165,27 +165,9 @@ if __name__ == "__main__":
   <img src="https://github-readme-streak-stats.herokuapp.com?user=anvaraxadjonov1802&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff" width="60%"/>
 </div>
 
-<!-- ========== TROPHY ========== -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=anvaraxadjonov1802&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="100%"/>
-</div>
-
 <!-- ========== ACTIVITY GRAPH ========== -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anvaraxadjonov1802&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa" width="97%"/>
-</div>
-
----
-
-<!-- ========== SNAKE ========== -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anvaraxadjonov1802/anvaraxadjonov1802/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anvaraxadjonov1802/anvaraxadjonov1802/output/github-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/anvaraxadjonov1802/anvaraxadjonov1802/output/github-snake-dark.svg" width="100%"/>
-  </picture>
 </div>
 
 ---
